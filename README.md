@@ -1,8 +1,8 @@
 ![Texto Alternativo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo3aDUyZnQ0eXg5c2p3NGRtNXE1eGtzMmIydm9hcmNtdjViY2tqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kiWlpxD6hXmvTL8dio/giphy.gif)
 
 <p align="center">
-  <img src="https://giphy.com" width="300" alt="GIF Animado"><br>
-  <sub>GIF criado por <a href="https://giphy.com" target="_blank">PERFECTL00P</a></sub>
+  <img src="https://giphy.com" width="300" alt="Boneco Correndo"><br>
+  <span>GIF criado por <a href="https://giphy.com" target="_blank">PERFECTL00P</a></span>
 </p>
 
 
