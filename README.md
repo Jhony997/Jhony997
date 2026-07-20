@@ -2,8 +2,9 @@
 
 <p align="center">
   <img src="https://giphy.com" width="300" alt="Boneco Correndo"><br>
-  <span>GIF criado por <a href="https://giphy.com" target="_blank">PERFECTL00P</a></span>
+  🧙‍♂️ <span>GIF criado por <a href="https://giphy.com" target="_blank">PERFECTL00P</a></span>
 </p>
+
 
 
 
