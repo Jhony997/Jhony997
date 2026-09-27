@@ -1,8 +1,5 @@
-![Texto Alternativo](https://media.giphy.com/media/wT1c5DyoFwFGcItPzv/giphy.gif)
+![Texto Alternativo](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyN3p4dW41dWM3N2FkbnFycDExYnBjN3Jlc3Riam01dnEwY3d0ZWxiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eVHjoGhmdQmBx8edX7/giphy.gif)
 
-<p align="center">
-  <sub>GIF criado por <a href="https://giphy.com/PERFECTL00P" target="_blank">PERFECTL00P</a></sub>
-</p>
 
 
 
