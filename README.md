@@ -1,4 +1,4 @@
-![Texto Alternativo](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyazRodGZhc28yM2o0N3kwNWhiYTRqbXJuZzh1d2FheHEwaGlra2J1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTMgE8owWM0q7iTKzx/giphy.gif)
+![Texto Alternativo](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMDF0d3p3aXp0b3dmbGNyaXNiNWUwZGpscWI5dDJndjJxZmJyYXBhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yEy2dQxdzY0oAV5NWo/giphy.gif)
 
 
 
